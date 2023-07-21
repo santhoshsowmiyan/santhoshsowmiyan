@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @santhoshsowmiyan
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python with Data Exploration
+- 👋 Hi, I’m Santhosh Kumar
+- 👀 Interested in Analytics
+- 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate to work with enthusiasm
 - 📫 How to reach me https://www.linkedin.com/in/santhosh-kumar-4ba4a9138
 
